@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+set et ts=4 sts=4 sw=4
 /**
 * main - causes an infinite loop
 * Return: 0
