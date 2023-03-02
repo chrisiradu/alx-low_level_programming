@@ -5,6 +5,7 @@
  * @s: An input string to encode using rot13
  * Return: An encode string
  */
+
 char *rot13(char *s)
 {
 	int i;
